@@ -25,7 +25,5 @@ https://drive.google.com/file/d/1GHyrkXM6VmBhd1IZc0goPieUfVa3ZJkW/view?usp=drive
 Exel 
 https://docs.google.com/spreadsheets/d/1UAvyj8HZSMtNo5j13lyQzdMhKQyt8Can/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true
 
-<!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
-<p align="center">
-<img alt="Banner de agredecimento" src="./Aplicativo Power Apps.jpg" 
- 
+
+![Exel](Screenshot_20240607_001728_Excel.jpg)
