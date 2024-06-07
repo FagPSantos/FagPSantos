@@ -19,8 +19,12 @@ https://drive.google.com/file/d/1QgxMuGkRDbJQKttz_v_gnec2_th6_DBF/view?usp=drive
 Aplicativo Power Apps 
 https://drive.google.com/file/d/1QiWOW-GplOqS2UgjJJ0xmErWVt73VRqL/view?usp=drivesdk
 
+Dashboard Power BI 
+https://drive.google.com/file/d/1GHyrkXM6VmBhd1IZc0goPieUfVa3ZJkW/view?usp=drivesdk
+
+
+
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Aplicativo Power Apps.jpg" />
-</p>
-https://drive.google.com/file/d/1GHyrkXM6VmBhd1IZc0goPieUfVa3ZJkW/view?usp=drivesdk
+<img alt="Banner de agredecimento" src="./Aplicativo Power Apps.jpg" 
+ 
