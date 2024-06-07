@@ -21,5 +21,5 @@ https://drive.google.com/file/d/1QiWOW-GplOqS2UgjJJ0xmErWVt73VRqL/view?usp=drive
 
 <!-- ## Obrigado por acessar noso GitHub! :sparkles: -->
 <p align="center">
-<img alt="Banner de agredecimento" src="./Grafico Burndown.jpeg" />
+<img alt="Banner de agredecimento" src="./Aplicativo Power Apps.jpg" />
 </p>
