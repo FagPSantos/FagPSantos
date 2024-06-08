@@ -19,6 +19,8 @@ https://drive.google.com/file/d/1QgxMuGkRDbJQKttz_v_gnec2_th6_DBF/view?usp=drive
 Aplicativo Power Apps 
 https://drive.google.com/file/d/1QiWOW-GplOqS2UgjJJ0xmErWVt73VRqL/view?usp=drivesdk
 
+![Aplicativo PowerApps](Capturar.PNG)
+
 Dashboard Power BI 
 https://drive.google.com/file/d/1GHyrkXM6VmBhd1IZc0goPieUfVa3ZJkW/view?usp=drivesdk
 
