@@ -22,6 +22,8 @@ https://drive.google.com/file/d/1QiWOW-GplOqS2UgjJJ0xmErWVt73VRqL/view?usp=drive
 Dashboard Power BI 
 https://drive.google.com/file/d/1GHyrkXM6VmBhd1IZc0goPieUfVa3ZJkW/view?usp=drivesdk
 
+![Dashboard](Screenshot_20240426_194557_Samsung Internet.jpg)
+
 Exel 
 https://docs.google.com/spreadsheets/d/1UAvyj8HZSMtNo5j13lyQzdMhKQyt8Can/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true
 
