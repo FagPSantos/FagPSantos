@@ -22,6 +22,9 @@ https://drive.google.com/file/d/1QiWOW-GplOqS2UgjJJ0xmErWVt73VRqL/view?usp=drive
 ![Aplicativo PowerApps](Capturar.PNG)
 
 Dashboard Power BI 
+https://drive.google.com/file/d/1g3fLOOuIK96LrjbAaE7PRheVCe-lv9ka/view?usp=drivesdk
+
+![Dashboard DadosExportação](IMG-20240605-WA0062.jpg)
 
 Exel 
 https://docs.google.com/spreadsheets/d/1UAvyj8HZSMtNo5j13lyQzdMhKQyt8Can/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true
