@@ -31,3 +31,15 @@ https://docs.google.com/spreadsheets/d/1UAvyj8HZSMtNo5j13lyQzdMhKQyt8Can/edit?us
 
 
 ![Exel](Screenshot_20240607_001728_Excel.jpg)
+
+Power Point 
+https://docs.google.com/presentation/d/1g50bCNfMeuEVgsPQS0avAY62on72GCeu/edit?usp=drivesdk&ouid=105246158924921560733&rtpof=true&sd=true
+
+
+
+
+
+
+
+
+
