@@ -33,8 +33,9 @@ https://docs.google.com/spreadsheets/d/1UAvyj8HZSMtNo5j13lyQzdMhKQyt8Can/edit?us
 ![Exel](Screenshot_20240607_001728_Excel.jpg)
 
 Power Point
+https://drive.google.com/file/d/1gzWzAQ-BnaHontU5z2JG4Sb3TbSMsm9U/view?usp=drivesdk
 
-https://drive.google.com/file/d/1ghLaY0wq2xF3dnpya_28hG-aXcPSsKIg/view?usp=drivesdk
+
 ![Apresentação](Screenshot_20240611_001019_PowerPoint.jpg)
 
 
